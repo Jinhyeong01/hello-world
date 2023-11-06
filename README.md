@@ -1,4 +1,3 @@
 # hello-world
-hello-world
-\n
-Lee JinHyeong, KHU
+hello-world <br/>
+## Lee JinHyeong, KHU
